@@ -1,0 +1,2 @@
+id,customerId,vehicleId,type,startTime,endTime,totalCost,status,routeId
+1001,2,2,2,2025-08-16,,0.00,0,0
