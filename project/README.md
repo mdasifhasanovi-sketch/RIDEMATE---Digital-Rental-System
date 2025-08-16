@@ -160,8 +160,10 @@ Built with ❤️ by the RideMate Team
 
 ## Author
 
-- Md. Tanjim Islam  
-  Software Engineering Student, Daffodil International University
+MD ASIF HASAN OVI 
+MD TANJIM ISLAM
+RITU SAHA
+ATHAY SAHA
 
 ## Note
 
